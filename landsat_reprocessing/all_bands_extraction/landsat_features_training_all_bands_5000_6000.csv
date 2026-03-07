@@ -1,4 +1,4 @@
-,Unnamed: 0,Latitude,Longitude,Sample Date,atran,green,drad,blue,emis,atmos_opacity,emsd,nir08,swir16,swir22,lwir,red,urad,trad,cdist
+Unnamed: 0.1,Unnamed: 0,Latitude,Longitude,Sample Date,atran,green,drad,blue,emis,atmos_opacity,emsd,nir08,swir16,swir22,lwir,red,urad,trad,cdist
 0,0.0,-28.760833,17.730278,05-12-2013,8331.0,10137.0,685.0,9456.0,9880.0,-9999.0,,9544.0,9461.5,9348.0,43687.0,9888.0,1329.0,8706.0,12.0
 1,1.0,-26.905,32.324722,05-12-2013,5015.0,9393.5,1789.0,8161.0,9841.5,,,19939.5,13028.5,10133.5,,8629.0,3994.0,8692.0,24.0
 2,2.0,-28.116667,26.725278,05-12-2013,8756.5,18971.5,488.0,18158.5,9722.0,,39.0,23005.0,21302.0,18373.5,,19450.5,907.5,7972.0,
